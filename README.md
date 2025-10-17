@@ -38,7 +38,7 @@ I believe great software isn’t just about code; It’s about solving meaningfu
 
 ### 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikhil-madeti-07914337a/)  
-- 🧠 [Portfolio / Projects](https://github.com/Nikhil-0)  
+- 🧠 [Portfolio / Projects](https://all-about-nikhil.vercel.app/)  
 - ✉️ Reach me at: **nikhil.madeti.work@gmail.com**
 
 ---
