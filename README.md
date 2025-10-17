@@ -3,7 +3,7 @@
 💻 **Computer Science Student | Aspiring Software Engineer | AI & FinTech Enthusiast**
 
 I’m passionate about using **technology and data** to build intelligent systems that make finance smarter, faster, and more accessible.  
-Currently exploring how **Artificial Intelligence, Machine Learning, and Financial Technology** can work together to create real-world impact.
+I am currently exploring how **Artificial Intelligence, Machine Learning, and Financial Technology** can work together to create real-world impact.
 
 ---
 
